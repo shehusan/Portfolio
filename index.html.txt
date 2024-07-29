@@ -4,7 +4,45 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Shehu Muhammed Sani - GIS Project Coordinator</title>
-    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #0d0d0d;
+            color: #ffffff;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        section {
+            padding: 20px;
+        }
+        h3 {
+            color: #0d0d0d;
+        }
+        .experience-item, .project-item {
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            padding: 15px;
+        }
+        footer {
+            background-color: #0d0d0d;
+            color: #ffffff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
 </head>
 <body>
     <header>
@@ -103,7 +141,101 @@
             </ul>
             <p>Impact: The project significantly improved property records for EKIRS, creating a comprehensive database that enhances revenue collection and supports informed urban planning. This successful execution highlights our commitment to leveraging data for sustainable development in Ekiti State.</p>
         </div>
-        <!-- Add other project items similarly -->
+        <div class="project-item">
+            <h4>US-CDC Zero-Dose Pilot Initiative: Boosting Immunization Coverage in Gbakogi Ward, Niger State (Apr 2024 - May 2024)</h4>
+            <p>Associated with Milsat</p>
+            <p>The US-CDC project is a pivotal initiative addressing zero-dose vaccination rates among children in the Gbakogi ward, Katcha LGA, Niger State, Nigeria. Zero-dose children have not received any vaccines, posing a significant public health challenge. This pilot project aims to develop replicable strategies to improve vaccination coverage.</p>
+            <p>Project Goals:</p>
+            <ul>
+                <li>Combat low vaccination coverage by targeting zero-dose children.</li>
+                <li>Develop a comprehensive GIS Micro Plan to identify and locate unvaccinated children.</li>
+                <li>Systematically enumerate children (0-5 years) and map households and buildings.</li>
+            </ul>
+            <p>Key Achievements:</p>
+            <ul>
+                <li>Successfully enumerated 2,373 households, 1,789 buildings, and 4,830 children of various vaccination statuses.</li>
+                <li>Collected critical data to direct resources and tailor immunization campaigns for maximum impact.</li>
+            </ul>
+            <p>Impact: The project has significantly enhanced the ability to identify zero-dose children, ensuring long-term effectiveness and continued improvement in childhood immunization rates. This data-driven approach is crucial in safeguarding the well-being of every child in the state and can be replicated in similar regions for broader public health benefits.</p>
+        </div>
+        <div class="project-item">
+            <h4>Lee Fakino Ltd: Mapping of Structures and Economic Profile of the Alaba-Rago Market (Jul 2023 - Sep 2023)</h4>
+            <p>Associated with Milsat</p>
+            <p>A geographic data collection of the commercial landscape of the Alaba-Rago market. The primary objective of the project was to meticulously map the expansive commercial landscape, encompassing both temporary and permanent structures within the market premises. The project's dedicated efforts involved recording vital details of each commercial outlet, including its corresponding occupants. Additionally, essential data on building owners' and caretaker profiles were collected to provide a holistic view of the market's operational dynamics.</p>
+        </div>
+        <div class="project-item">
+            <h4>Pilot Mapping of Schools in AMAC, FCT for GIGA Project (Apr 2023)</h4>
+            <p>Associated with Milsat</p>
+            <p>The primary goal of this pilot initiative is to gather precise and comprehensive data regarding the exact addresses of educational institutions, encompassing nursery, primary, and secondary schools, situated within two specific wards in the Abuja Municipal Area Council (AMAC): Wuse and Kabusa. This collaborative project involves the partnership between GIGA, UNICEF, and ITU, with the overarching objective of ensuring universal internet connectivity for all schools and enabling every young individual to access information, opportunities, and make informed choices.</p>
+            <p>In pursuit of this objective, the project employed the Milsat Enumeration Pad and engaged the expertise of 10 proficient professionals from the Milsat Mappers Network. With remarkable efficiency, the team successfully conducted comprehensive mapping and documentation, identifying a total of 171 schools across the designated areas. The insights derived from this data acquisition endeavor offer valuable information about the characteristics and precise geographical distribution of these educational institutions.</p>
+        </div>
+        <div class="project-item">
+            <h4>Energy and Religion Mapping (PILOT) in AMAC FCT (Feb 2023 - Mar 2023)</h4>
+            <p>Associated with Milsat Technologies</p>
+            <p>The main objective of this project was to meticulously collect accurate and comprehensive data concerning the precise locations of significant establishments within AMAC, Nigeria. To achieve this objective, the project leveraged the capabilities of the Milsat Enumeration Pad, in conjunction with a dedicated team consisting of 20 skilled professionals affiliated with the Milsat Mappers Network.</p>
+            <p>The team was primarily focused on capturing the precise coordinates of crucial facilities, including but not limited to places of worship, filling stations, gas plants, and orphanages. This effort extended to encompass a wide range of pertinent and distinctive information. Through thorough training and the application of their specialized expertise, the team successfully undertook the task of mapping and documenting a total of 2200 places of worship, 187 filling stations, 279 mini gas stations, and 17 orphanage homes situated within AMAC.</p>
+            <p>It is essential to note that the gathered data underwent a meticulous verification process to ensure the utmost accuracy and reliability.</p>
+        </div>
+        <div class="project-item">
+            <h4>National Population Census (NPC); Enumerating Training Center and Incident Survey “PILOT” (Jan 2023 - Mar 2023)</h4>
+            <p>Associated with Milsat Technologies</p>
+            <p>Milsat Technologies partnered with the Human Resources Department at the National Population Commission (NPC) to systematically map various training centers across the nation. The primary objective was to establish a robust Incident Monitoring system for daily emergencies at each of these training centers.</p>
+            <p>The initial phase of this initiative involved a pilot program conducted in the Federal Capital Territory (FCT), Abuja. Subsequently, a second pilot phase took place in multiple states: Kano, Oyo, Kwara, Anambra, Ebonyi, Adamawa, Rivers, and Bauchi. In order to ensure the success of this project, Milsat Technologies contributed technical expertise through dedicated personnel, while data collection and real-time monitoring were facilitated by the deployment of Enumeration pads and an Enumeration dashboard.</p>
+        </div>
+        <div class="project-item">
+            <h4>Nigeria Energy Support Program (NESP) and GIZ (Mar 2023)</h4>
+            <p>Associated with Milsat</p>
+            <p>Organized the Deployment and Installation stage with Energy Reliability Monitoring with NESP-GIZ. An IoT-backed project focused on the monitoring of power supply from the National grid and from diesel generators used for self-power generation to determine the most efficient in terms of cost and reliability.</p>
+            <p>Data from the project was interpreted and analyzed to determine the most efficient method to adopt and replace specific sources with renewable energy.</p>
+        </div>
+        <div class="project-item">
+            <h4>DAI Nigeria: Mapping of Polling unit across the North East and North West of Nigeria (Nov 2022 - Jan 2023)</h4>
+            <p>Associated with Milsat</p>
+            <p>Successfully enumerated 36,345 polling units across the North East and North West regions of Nigeria, employing a team of over 400 dedicated data collectors. The primary objective of this initiative was to enhance Nigeria's electoral procedures by obtaining precise and current data concerning polling unit locations, facilitated by a robust project advisory framework.</p>
+            <p>Our strategy included the utilization of cutting-edge technology, with tools such as the Milsat Enumeration Pad, Milsat Enumeration Dashboard, and a Real-time Advanced Monitoring Dashboard. These software solutions played a pivotal role in achieving our project's goals, ensuring accuracy and efficiency throughout the process.</p>
+            <p>By executing this project, we contributed to the advancement of Nigeria's electoral landscape, enabling better-informed decisions and a more transparent electoral process.</p>
+        </div>
+        <div class="project-item">
+            <h4>Sydani Initiative :Health Data Mapping of Access to Mosquito nets in Benue State (Aug 2022 - Oct 2022)</h4>
+            <p>Associated with Milsat Technologies</p>
+            <p>The project's objective was to establish a comprehensive metric of distributed treated mosquito nets within the Benue state. Milsat Technologies was responsible for implementing the Enumeration Pad as the exclusive instrument for all on-site data collection activities. The project's focus lies in the analysis of the gathered data, aiming to ascertain the proportion of the populace lacking access to treated mosquito nets. This analysis will encompass their societal circumstances and professional engagements.</p>
+            <p>Through data interpretation, the project aims to unveil connections between socioeconomic standing, healthcare management, and disease prevention. To ensure data accuracy and real-time oversight, Milsat Technologies also introduced the Enumeration dashboard for data consolidation and quality assurance.</p>
+        </div>
+        <div class="project-item">
+            <h4>Mapping of Fish Smoking Business in Makoko, Lagos State (Aug 2022 - Sep 2022)</h4>
+            <p>Associated with Milsat</p>
+            <p>Mapping of fish smoking businesses, Fish Vendors, FireWood Businesses and Needy people In Makoko Local Government Area, Lagos Nigeria. Milsat Technologies initiated this project to acquire data on the locations of fish-smoking businesses, fish vendors, and firewood vendors across the Makoko community. This project focuses on profiling the social hierarchy of the Makoko community.</p>
+        </div>
+        <div class="project-item">
+            <h4>NASA Harvest's 'Helmets Labeling Crops' Project Makes Crop Identification Simple And Efficient (Jun 2022 - Jul 2022)</h4>
+            <p>Associated with Milsat Technologies</p>
+            <p>Milsat Technologies Limited, in collaboration with NASA Harvest, executed a pioneering initiative aimed at enhancing the precision of crop-type mapping. The endeavor, known as the Helmets Labeling Crops Project (referred to as 'Helmets'), centered on the innovation and deployment of advanced, scalable data collection technologies. These technologies facilitated the annotation of geo-referenced points within agricultural fields, enabling their integration with satellite imagery for subsequent tasks such as crop type classification.</p>
+            <p>The Milsat Enumeration pad played a pivotal role in capturing the precise geolocation of each individual maize farmland that was surveyed. To ensure seamless oversight of the acquired dataset, the Enumeration Dashboard was employed. Additionally, the Helmets project leveraged GoPro cameras to apply geotags to street-level images.</p>
+        </div>
+        <div class="project-item">
+            <h4>Veterinary Council of Nigeria; Facility Enumeration of Operational Veterinary Clinics in Nigeria (Mar 2022 - Apr 2022)</h4>
+            <p>Associated with Milsat Technologies</p>
+            <p>The Veterinary Council of Nigeria (VCN) has embarked on a mission to create a comprehensive database of all veterinary clinics in Nigeria. To achieve this, the project utilizes an innovative approach to collect on-site data and accurately map veterinary practice locations throughout the country.</p>
+            <p>Milsat Technologies has played a crucial role in advising and assisting throughout the entire project lifecycle. Their advisory services encompassed strategic planning, data categorization experimentation, and the creation of tailor-made platforms. As part of their contribution, they developed a customized version of the VCN Dashboard, equipped with unique features specifically designed for this initiative. Additionally, Milsat Technologies developed a specialized data collection application exclusively dedicated to the needs of this project.</p>
+        </div>
+        <div class="project-item">
+            <h4>National Population Commission (NPC); Mapping of all road and birth registration centres in Nigeria (Jan 2022 - Mar 2022)</h4>
+            <p>Associated with Milsat Technologies Limited</p>
+            <p>The Nigerian National Population Commission set out to vectorize roads and birth registration centres across the country. Milsat Technologies was designated to provide optimal technical support and technology input for the data acquisition procedure for all roads across 36 states with the FCT. All data were transmitted in the right statistical and map format for further presentation and query using custom dashboards and software applications.</p>
+            <p>We also collaboratively mapped all post offices across localities in Nigeria and the active population of citizens living in unorganised settlements like bridges, slums and other untypical residential areas. The Enumeration pad and dashboard were used to seamlessly transmit acquired data to the base office in real time without the introduction of data discrepancies.</p>
+        </div>
+        <div class="project-item">
+            <h4>Chronicle Strategy Partners and Mercy Corps (USA) : Mapping Value Chain of Women in the North-eastern Geopolitical Zone of Nigeria (Jan 2022 - Feb 2022)</h4>
+            <p>Associated with Milsat Technologies</p>
+            <p>The objective of this project is to gain insights into the business value chain of women in the Northeastern geopolitical zone of Nigeria. We gathered data on the predominant small and medium-sized enterprise (SME) services operated by women in the region. The data will be utilized to determine suitable funding and loan options for these women.</p>
+            <p>To collect the data, we employed the Milsat enumeration pad, and the transmission and analysis of the data were conducted using the Enumeration dashboard, ensuring accuracy throughout the process.</p>
+        </div>
+        <div class="project-item">
+            <h4>Littleseed Concept Limited in partnership with CBM and Comic Relief United Kingdom; Mapping of Mental Health demography (Feb 2022)</h4>
+            <p>Associated with Milsat Technologies</p>
+            <p>The objective of the linked project description was to gather information about mental health conditions and associated matters across various population groups in three states within the Federal Republic of Nigeria: Abuja, Lagos, and Imo. Milsat Technologies offered the necessary technological assistance by creating a customized mobile application called the Enumeration Pad and a web-based dashboard known as the Enumeration Dashboard.</p>
+            <p>The project employed the Enumeration Pad to collect data in the field, while the Enumeration Dashboard was utilized for immediate data handling and retrieval. Additionally, Milsat Technologies provided training for their field personnel through our data education platform as part of the technical support provided.</p>
+        </div>
     </section>
 
     <footer>
