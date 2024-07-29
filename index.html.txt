@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shehu Muhammed Sani - GIS Project Coordinator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Shehu Muhammed Sani</h1>
+        <h2>GIS Project Coordinator at Milsat Technologies</h2>
+    </header>
+
+    <section id="about">
+        <h3>About Me</h3>
+        <p>As a seasoned GIS Project Coordinator at Milsat Technologies, I specialize in driving data collection projects and generating business leads through geospatial technology. My expertise lies in managing large-scale data acquisition and delivering tailored geospatial solutions that drive business growth and strategic partnerships. Join me as we leverage data to transform industries and elevate business outcomes.</p>
+    </section>
+
+    <section id="experience">
+        <h3>Experience</h3>
+        <div class="experience-item">
+            <h4>Milsat Technologies</h4>
+            <p>Business Executive (Nov 2023 - Present)</p>
+            <ul>
+                <li>Spearheaded lead generation efforts in the health and energy sectors, identifying and securing high-value clients for geospatial solutions.</li>
+                <li>Developed strategic partnerships with key stakeholders in the health sector, enhancing the adoption of GIS technologies for public health projects and vaccination campaigns.</li>
+                <li>Established partnerships with agricultural firms, resulting in the integration of GIS for crop monitoring and yield optimization.</li>
+                <li>Leveraged geospatial data to provide tailored solutions to energy companies, optimizing resource management and infrastructure planning.</li>
+                <li>Conducted market analysis and outreach campaigns, increasing lead conversion rates by 25%.</li>
+                <li>Managed cross-functional teams to ensure seamless project execution and client satisfaction, driving business growth and expanding Milsat Technologies' market presence.</li>
+                <li>Implemented data-driven lead generation strategies, resulting in a 30% increase in client acquisition across these sectors.</li>
+                <li>Regularly presented insights and solutions to potential clients, tailoring proposals to meet their specific needs and challenges.</li>
+            </ul>
+        </div>
+        <div class="experience-item">
+            <p>Regional Project Coordinator (Jun 2023 - Present)</p>
+            <ul>
+                <li>Trained and engaged over 700 field mappers, 100 field supervisors, and 50 data validators across various projects over the past year.</li>
+                <li>Successfully managed and coordinated three high-level projects in the health and economic sectors from inception to completion.</li>
+                <li>Deployed geospatial solutions such as ArcGIS Pro, QGIS, and Milsat's mobile application (EnumPad) to achieve high data accuracy and generate meaningful insights tailored to client needs.</li>
+                <li>Managed and coordinated a vaccination pilot project in Niger State, culminating in a successful scale-up to four additional LGAs. This effort generated over 600,000 datasets of buildings, households, and children aged 0-5 years.</li>
+            </ul>
+        </div>
+        <div class="experience-item">
+            <p>Project Manager (Jan 2022 - Aug 2023)</p>
+            <ul>
+                <li>Secured 300 enumerators for the first and second cohorts of the Mappers Network Community by leading the Community team in their recruitment and training.</li>
+                <li>Provided technical support for field data acquisition using Milsat Enumeration Technologies in mapping three primary points of interest (telecommunication masts, post offices, and birth registration centers) across all Nigerian states.</li>
+                <li>Facilitated, technically supported, and developed CAPI questionnaire for Littleseed Concept as well as the utilization of Milsat Enumeration Technologies in the CBM-organized mental health survey, which was conducted in Lagos, Abuja, and IMO state, respectively.</li>
+                <li>Developed the CAPI questionnaire and offered technical support to Mercy Corps USA, on the use of Milsat enumeration technologies during field data collection of value chain segment for women in three northeastern Nigerian states (Bornu, Gombe, and Adamawa).</li>
+            </ul>
+        </div>
+        <div class="experience-item">
+            <p>Geographic Information System Officer (Aug 2019 - Jan 2021)</p>
+            <ul>
+                <li>Leveraged Geospatial tools like Google Earth Engine, ArcGIS Desktop, Global Mapper, and Mapbox to generate and geo-reference more than 20,000 imagery for map processing across more than 200 Local Government Areas of the country.</li>
+                <li>Oversaw a team of approximately 100 field data collectors in four states in Nigeria's north central and western regions.</li>
+                <li>Trained more than 100 field data Demarcators on the use of a mobile data collection application.</li>
+                <li>Reviewed over 40,000 field-collected datasets that were then digitized into the appropriate geodatabases using ArcGIS Desktop.</li>
+                <li>Resolved technical issues relating to data collection geo-apps and GIS technologies during field data collection exercises around the nation.</li>
+            </ul>
+        </div>
+        <div class="experience-item">
+            <p>Internship Trainee (Jun 2019 - Jan 2020)</p>
+            <ul>
+                <li>GIS Data Collection.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="education">
+        <h3>Education</h3>
+        <p>Ahmadu Bello University</p>
+        <p>Bachelor of Science - BS, Geographic Information Science and Cartography (Sep 2016 - Nov 2020)</p>
+    </section>
+
+    <section id="certifications">
+        <h3>Licenses & Certifications</h3>
+        <ul>
+            <li>Project Planning: Putting It All Together - Google (Dec 2023) Credential ID KKF57MM22BCH</li>
+            <li>Project Initiation: Starting a Successful Project - Google (Jun 2023) Credential ID T9YRCXLNXCM2</li>
+            <li>Foundations of Project Management - Google (Mar 2023) Credential ID DMP9F2YUYMY2</li>
+            <li>Milsat Certified Enumeration Pad Expert - Milsat (Oct 2020)</li>
+            <li>Going Places with Spatial Analysis - Esri (Sep 2020) Credential ID 09272020</li>
+            <li>Do-it-yourself Geo Apps - Esri (Aug 2020) Credential ID 08302020</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h3>Projects</h3>
+        <div class="project-item">
+            <h4>EKIRS Land Use Charge (LUC) Data Collection Project (Jan 2024 - May 2024)</h4>
+            <p>Associated with Milsat</p>
+            <p>The MILSAT/EKIRS LUC Data Collection project focused on cataloging property records and identifying key locations to enhance spatial data accuracy for Land Use Charge (LUC) assessments and urban planning. By addressing gaps in property databases, this initiative supports evidence-based decision-making for sustainable development.</p>
+            <p>Key Insights:</p>
+            <ul>
+                <li>Property Types: Predominantly completed buildings (68.52%) and uncompleted buildings (17.66%).</li>
+                <li>Property Status: Mainly old-looking properties (42%) and new-looking properties (30.61%).</li>
+                <li>Ownership: Largely private individual ownership (71.28%).</li>
+                <li>Responsibility: Most properties have unknown in-charge persons (75.12%).</li>
+                <li>Structures: Majority are bungalows (47.17%).</li>
+            </ul>
+            <p>Impact: The project significantly improved property records for EKIRS, creating a comprehensive database that enhances revenue collection and supports informed urban planning. This successful execution highlights our commitment to leveraging data for sustainable development in Ekiti State.</p>
+        </div>
+        <!-- Add other project items similarly -->
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Shehu Muhammed Sani</p>
+    </footer>
+</body>
+</html>
